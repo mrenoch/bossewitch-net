@@ -46,6 +46,10 @@ h3 {
     font-weight: thin;
 }
 
+h4 {
+    color: white;
+}
+
 .schedule {
     color: white;
     padding-bottom: 20px;
